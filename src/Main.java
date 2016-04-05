@@ -12,7 +12,10 @@ public class Main {
         int len, dLen;
         String source, destination;
 
+        System.out.print("Enter the source word : ");
         source = sc.next();
+
+        System.out.print("Enter the destination word : ");
         destination = sc.next();
 
         source = source.toLowerCase();
