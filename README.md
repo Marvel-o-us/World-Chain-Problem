@@ -1,4 +1,4 @@
-# World-Chain-Problem
+# Word Chain Problem
 My solution to the World Chain Problem
 
 ### Introduction
