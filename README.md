@@ -28,4 +28,4 @@ java CreateDictionary.class
 javac Main.java
 java Main.class
 ``` 
-The CreateDictionary.java file arranges same length words into same files named as `x_word_dictionary.txt` where x is the length of the each word in the file.
+The CreateDictionary.java file arranges same length words into same files named as `x_word_dictionary.txt` where x is the length of each word in the file.
